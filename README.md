@@ -1,4 +1,4 @@
 # GraduateApp
 
-movieDb and custom api usage
+movieDb and custom api usage,
 collectionView
